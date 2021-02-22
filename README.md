@@ -5,7 +5,7 @@ Objective:
 3. Predictions of Champions segments
 
 Table of contents: 
-1. Exploratory Data Analysis (basic stats, data visusalisation, )
+1. Exploratory Data Analysis (basic statistics and data visusalisation)
 2. Feature Importance
 3. Prediction of Champions Segments
 4. Sankey diagram to visualise segments movement
