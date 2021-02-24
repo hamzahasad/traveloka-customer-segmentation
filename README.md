@@ -11,4 +11,6 @@ Table of contents:
 4. Sankey diagram to visualise segments movement
 
 **Preview Sankey Diagram**
+
+
 ![](champion_movement.PNG)
