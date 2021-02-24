@@ -10,4 +10,5 @@ Table of contents:
 3. Prediction of Champions Segments
 4. Sankey diagram to visualise segments movement
 
-
+**Preview Sankey Diagram**
+![](images/champion_movement.PNG)
