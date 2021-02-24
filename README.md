@@ -1,4 +1,4 @@
-# Traveloka Customer Segmentation
+# Traveloka Customer Segmentation Challenge
 Objective: 
 1. To see movement between segments in monthly basis
 2. Show wich Feature with highly correlated to the Champions Segments
@@ -9,3 +9,5 @@ Table of contents:
 2. Feature Importance
 3. Prediction of Champions Segments
 4. Sankey diagram to visualise segments movement
+
+
